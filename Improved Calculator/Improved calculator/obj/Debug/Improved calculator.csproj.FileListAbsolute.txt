@@ -1,0 +1,11 @@
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\bin\Debug\Improved calculator.exe.config
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\bin\Debug\Improved calculator.exe
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\bin\Debug\Improved calculator.pdb
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\obj\Debug\Improved calculator.csproj.AssemblyReference.cache
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\obj\Debug\Improved calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\obj\Debug\Improved_calculator.Properties.Resources.resources
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\obj\Debug\Improved calculator.csproj.GenerateResource.cache
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\obj\Debug\Improved calculator.csproj.CoreCompileInputs.cache
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\obj\Debug\Improved calculator.exe
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\obj\Debug\Improved calculator.pdb
+C:\Users\zulia\Desktop\C#\Projekte\Improved calculator\Improved calculator\obj\Debug\Improved_calculator.Form1.resources
