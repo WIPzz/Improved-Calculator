@@ -1,5 +1,5 @@
 # Improved-Calculator
-Improved calculator from the simple calculator
+Desktop app: Improved calculator from the simple calculator
 
 Own written code is in Form1.cs
 
